@@ -93,12 +93,15 @@ The below screenshot shows the database of the project which has been made in My
 
 - python
 - openCV
+- pip
 - cmake
 - dlib
 - mysql 
+- mysql workbench
 - tkinter
 - pillow
 - numpy
+- cx_Freeze
 
 
 
