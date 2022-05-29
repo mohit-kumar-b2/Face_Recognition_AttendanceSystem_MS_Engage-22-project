@@ -1,7 +1,7 @@
 
 # Face_Recognition_AttendanceSystem_MS_Engage 22 project
 
-This is a Facial Recognition based Attendance Management Application made using python. It can be used in schools, colleges and offices to record the daily attendance of students and staffs flawlessly. This desktop application has been made as a project for Microsoft Engage 2022.
+This is a Facial Recognition based Attendance Management Application made using python and has a local host. It can be used in schools, colleges and offices to record the daily attendance of students and staffs flawlessly. This desktop application has been made as a project for Microsoft Engage 2022.
 The application takes the details of the students and stores them in the database which is made in MySql WorkBench and then takes 100 photo samples per student and trains these datasets into the system. In order to mark the attendance, the application compares the face of the person ,who is in front of the camera, with the trained datasets and if the face matches with any of the datasets, then the attendance is marked, and in case the face doesn't match with any of the trained datasets then it shows the message "Unknown User". This desktop application also provides the feature to update the details and photos of the already registered users, which makes this application even more powerful. In this way, this application can be used to mark the attendance of users in a very flawless manner.
 
 
