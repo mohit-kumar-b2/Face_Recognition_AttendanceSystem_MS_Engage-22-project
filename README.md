@@ -94,6 +94,7 @@ The below screenshot shows the database of the project which has been made in My
 - python
 - openCV
 - cmake
+- dlib
 - mysql 
 - tkinter
 - pillow
